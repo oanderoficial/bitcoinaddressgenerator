@@ -1,0 +1,2 @@
+# bitcoinaddressgenerator
+ Script em Python com o pacote bitcoinaddress, que gera um endereço de carteira Bitcoin. Ele gera uma chave privada em diferentes formatos (hex, wif e wif compactado) e endereços públicos correspondentes, brutos, endereços P2WPKH começando com o prefixo 1, endereços P2SH começando com prefixo 3 como parte de Segwit soft fork e endereços Bech32 com prefixo bc1 P2WPKH e P2WSH.
