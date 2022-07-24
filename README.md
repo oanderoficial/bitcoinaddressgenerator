@@ -11,7 +11,7 @@ pip install clint
 
 ## code 
 
-```
+```python
 from bitcoinaddress import Wallet
 from clint.textui import colored
 
