@@ -9,7 +9,7 @@ print(colored.yellow("""
  | |_) | | || (_| (_) | | | | | | |_| |  __/ | | |  __/ | | (_| | || (_) | |   
  |____/|_|\__\___\___/|_|_| |_|  \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|   
                                                                                                                                                        
-       Por: @bitcoinander | Bitcoin Address Generator | 2021
+       Por: @oanderoficial | Bitcoin Address Generator | 2021
         """))
 
 carteira = Wallet()
